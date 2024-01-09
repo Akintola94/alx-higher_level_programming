@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-my_list = [2, 4, 5, 7]
-idx = 4
-
 def element_at(my_list, idx):
     listlen = len(my_list)
     idx_len = listlen - 1
